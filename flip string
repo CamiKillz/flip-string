@@ -32,7 +32,7 @@ function zeezyFrontflip(act,inp,obj)
 		zeezy.Character.Humanoid:ChangeState("Jumping")
 		wait()
 		zeezy.Character.Humanoid.Sit = true
-		for i = 1,360 do 
+		for i = 1,360 do
 			delay(i/720,function()
 			zeezy.Character.Humanoid.Sit = true
 				zeezy.Character.HumanoidRootPart.CFrame = zeezy.Character.HumanoidRootPart.CFrame * CFrame.Angles(-h,0,0)
