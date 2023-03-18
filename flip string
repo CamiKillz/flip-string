@@ -2,7 +2,7 @@
 
 -- Discord server coming soon
 
-wait(1)
+wait(0)
 
 --[[ Info ]]--
 
