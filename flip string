@@ -2,8 +2,6 @@
 
 -- Discord server coming soon
 
-wait(0)
-
 --[[ Info ]]--
 
 local ver = "2.00"
